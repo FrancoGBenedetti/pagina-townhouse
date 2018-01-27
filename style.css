@@ -1,0 +1,41 @@
+.slider .indicators
+.indicator-item.active {
+  background-color: #adaeb3;
+
+}
+footer {
+  color: #adaeb3;
+}
+
+.underline {
+  border-bottom: solid 1px;
+}
+
+nav {
+  position: sticky;
+  top: 0;
+  height: 70px;
+}
+.imagen {
+  width: 100%;
+}
+#logo {
+  max-width: 50%;
+}
+
+#pagecontent {
+position: relative;
+top : 100vh;
+}
+nav ul a, nav .brand-logo.center {
+  color: rgba(0,0,0,0.7)
+}
+.slider .indicators .indicator-item {
+  background-color: rgba(0,0,0,0.3)
+}
+
+.background-white {
+  background-color: rgba(255,255,255,0.6);
+  position: relative;
+  top:35%;
+}
